@@ -54,4 +54,27 @@ a{
 .page-footer{
     background-color: #2e2f42;;
 }
-    
+/* main content */
+.main-paragrph{
+    background-color: #2e2f42;
+
+}
+.main-paragrph-title{
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+.button{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        background-color: #4d5ae5;
+    }
+    .nav-link:focus,
+    .nav-link:hover{
+        color: #404bbf;
+    }
