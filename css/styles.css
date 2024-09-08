@@ -101,10 +101,11 @@ a{
 .our-team{
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.1;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 .our-team-name{
         font-weight: 500;
@@ -113,6 +114,7 @@ a{
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        background-color: #fff;
 }
 .our-team-position{
         font-weight: 400;
